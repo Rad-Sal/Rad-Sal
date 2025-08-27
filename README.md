@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 I'm Rad
 
-<!--
-**Rad-Sal/Rad-Sal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Python & AI Developer | From lifting reps to coding reps 💪💻**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Self-taught programmer learning Python & AI  
+- Passionate about fitness and coding  
+- Love building mini-projects to level up my skills  
+
+---
+
+## Skills
+- Python (loops, conditions, data structures)  
+- Some libraries: `random`, `math`, `datetime`, etc.  
+- Data structures & algorithms basics  
+- Soon diving into **functions**, **OOP**, and **AI projects**  
+
+---
+
+## Current Goals
+- Build 3–5 solid Python projects  
+- Master functions & OOP  
+- Start learning AI and ML basics  
+
+---
+
+*“From the gym to the code — building strength in body and mind.”*
